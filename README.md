@@ -1,6 +1,6 @@
-# Polarization-imaging-datasets
-Overview of polarization imaging datasets
-This work was presented at SPIE Optics + Photonics 2023, during the conference Polarization Science and Remote Sensing XI
+# Overview of polarization imaging datasets
+
+The communication "Production of high-resolution reference polarization images from real world scenes" was presented at SPIE Optics + Photonics 2023, during the conference **Polarization Science and Remote Sensing XI**.
 
 ## Tables
 You can find here the updated version of the tables describing the polarization databases
@@ -26,6 +26,8 @@ You can find here the updated version of the tables describing the polarization 
 | Liu |	upon request |	200+100 |	 |	 |	yes |	RGB |
 
 **Table 1: Basic characteristics of imaging polarization datasets.**
+
+The following table describes non mosaiced datasets, likely to be used for testing demosaicing algorithms.
 
 | dataset |	Fork-net |	Sargent2020 |	Wen2019 |	Morimatsu2020 |	Wen2021 |
 | :----: |	:---: |	:---: |	:---: |	:---: |	:---: |
