@@ -15,7 +15,7 @@ You can find here the updated version of the tables describing the polarization 
 | Wen 2019 [6] |	GitHub |	105 |	1456 x 1088 |	8 |	NO |	RGB |
 | Sargent [7] |	upon request |	24 |	2448 x 2048 |	10 or 12 |	NO |	mono |
 | Morimatsu [8, 9] |	univ. repository |	40 |	1024 x 768 |	10 |	NO |	RGB |
-| Li [10] |		150 |		 |	yes |	mono |
+| Li [10] |	 |	150 |	1224 x 1024 |	 |	yes |	mono |
 | Ba [11] |	google drive |	326 |	1024 x 1024 |	11 |	yes |	RGB |
 | Wen 2021a [12] |	GitHub |	40+10 |	720 x 540 |	8 |	NO |	RGB |
 | Wen 2021b [13] |	GitHub |	8 |	1384 x 1032 |	8 |	yes |	RGB |
@@ -27,7 +27,7 @@ You can find here the updated version of the tables describing the polarization 
 | Ono [19] |	upon request |	82 |	2448 x 2040 |	11 |	yes |	RGB |
 | Kurita [20] |	upon request |	729+82+238 |	2448 x 2048 |	12 |	yes |	RGB |
 | Liu [21] |	upon request |	200+100 |	2448 x 2048 |	 |	yes |	RGB |
-| Yu [22] |	google drive |	120 |	1224 x 1024 |	 |	yes |	RGB |![image]
+| Yu [22] |	google drive |	120 |	1224 x 1024 |	 |	yes |	RGB |
 
 
 **Table 1: Basic characteristics of imaging polarization datasets (updated Sept. 06, 2023).**
