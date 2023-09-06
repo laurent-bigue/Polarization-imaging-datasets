@@ -9,46 +9,49 @@ You can find here the updated version of the tables describing the polarization 
 | :---: |	:---: |	:---: |	:---: |	:---: |	:---: |	:---: |
 | Abubakar [1] |	 |	6 |	1280 x 960 |	8 |	NO |	mono |
 | Lapray [2] |	GitHub |	10 |	1024 x 768 |	12 |	yes |	RGB/IR |
-| Zeng [3] |	upon request |	120 |	1280 x 960 |	8 |	NO |	mono |
-| Qiu [4] |	univ. repository |	40 |	1024 x 1024 |	8 |	yes |	RGB |
-| Wen 2019 [5] |	GitHub |	105 |	1456 x 1088 |	8 |	NO |	RGB |
-| Sargent [6] |	 |	24 |	2448 x 2048 |	10 or 12 |	NO |	mono |
-| Morimatsu [7, 8] |	univ. repository |	40 |	1024 x 768 |	10 |	NO |	RGB |
-| Ba [9] |	google drive |	326 |	1024 x 1024 |	11 |	yes |	RGB |
-| Wen 2021a [10] |	GitHub |	40+10 |	720 x 540 |	8 |	NO |	RGB |
-| Wen 2021b [11] |	GitHub |	8 |	1384 x 1032 |	8 |	yes |	RGB |
-| Blin [12] |	zenodo.org |	2060 |	500 x 500 |	8 |	yes |	RGB |
-| Sun [13] |	google drive |	132 |	2048 x 1848 |	8 |	yes |	RGB |
-| Zhang [14] |	 |	200 |	640 x 480 |	? |	NO |	mono |
-| Sattar [15] |	GitHub |	28 |	1224 x 1024 |	8 |	yes |	RGB |
-| Lei [16] |	GitHub |	522 |	1224 x 1024 |	11 |	yes |	RGB |
-| Ono [17] |	upon request |	82 |	2448 x 2040 |	11 |	yes |	RGB |
-| Kurita [18] |	upon request |	729+82+238 |	2448 x 2048 |	12 |	yes |	RGB |
-| Liu [19] |	upon request |	200+100 |	2448 x 2048 |	 |	yes |	RGB |
-| Yu [20] |	google drive |	120 |	1224 x 1024 |	? |	yes |	RGB |
+| Zhang 2018 [3] |	 |	215 |	640x480 |	 |	NO |	mono |
+| Zeng [4] |	upon request |	120 |	1280 x 960 |	8 |	NO |	mono |
+| Qiu [5] |	univ. repository |	40 |	1024 x 1024 |	8 |	yes |	RGB |
+| Wen 2019 [6] |	GitHub |	105 |	1456 x 1088 |	8 |	NO |	RGB |
+| Sargent [7] |	upon request |	24 |	2448 x 2048 |	10 or 12 |	NO |	mono |
+| Morimatsu [8, 9] |	univ. repository |	40 |	1024 x 768 |	10 |	NO |	RGB |
+| Li [10] |		150 |		 |	yes |	mono |
+| Ba [11] |	google drive |	326 |	1024 x 1024 |	11 |	yes |	RGB |
+| Wen 2021a [12] |	GitHub |	40+10 |	720 x 540 |	8 |	NO |	RGB |
+| Wen 2021b [13] |	GitHub |	8 |	1384 x 1032 |	8 |	yes |	RGB |
+| Blin [14] |	zenodo.org |	2060 |	500 x 500 |	8 |	yes |	RGB |
+| Sun [15] |	google drive |	132 |	2048 x 1848 |	8 |	yes |	RGB |
+| Zhang 2021 [16] |	 |	200 |	640 x 480 |	? |	NO |	mono |
+| Sattar [17] |	GitHub |	28 |	1224 x 1024 |	8 |	yes |	RGB |
+| Lei [18] |	GitHub |	522 |	1224 x 1024 |	11 |	yes |	RGB |
+| Ono [19] |	upon request |	82 |	2448 x 2040 |	11 |	yes |	RGB |
+| Kurita [20] |	upon request |	729+82+238 |	2448 x 2048 |	12 |	yes |	RGB |
+| Liu [21] |	upon request |	200+100 |	2448 x 2048 |	 |	yes |	RGB |
+| Yu [22] |	google drive |	120 |	1224 x 1024 |	? |	yes |	RGB |![image]
 
-**Table 1: Basic characteristics of imaging polarization datasets (updated Aug. 14, 2023).**
+
+**Table 1: Basic characteristics of imaging polarization datasets (updated Sept. 06, 2023).**
 
 The following table describes non mosaiced datasets, likely to be used for testing demosaicing algorithms.
 
-| dataset |	Zeng ('Forknet')&nbsp;[3] |	Sargent&nbsp;[6] |	Wen 2019&nbsp;[5] |	Morimatsu&nbsp;[7, 8] |	Wen 2021a&nbsp;[10] |
-| :---: |	:---: |	:---: |	:---: |	:---: |	:---: |
-| number of scenes |	120 |	24 |	105 |	40 |	50 |
-| definition |	1280 x 960 |	2448 x 2048 |	1456 x 1088 |	1024 x 768 |	720 x 540 |
-| spectral bands |	mono |	mono |	RGB |	RGB |	RGB |
-| bit depth |	8 |	10 or 12 |	8 |	10 |	8 |
-| camera |	Point Grey BFLY-U3-23S6M-C |	Blackfly |	JAI AP-1600T-USB |	JAI CV-M9GE 3-CCD |	FLIR BFS-U3-04S2m-cs  |
-| sensor |	 Sony IMX249 |	Sony IMX250  |	3x Sony IMX273 |	Sony ICX204AL |	Sony IMX 287 |
-| sensor technology |	CMOS |	CMOS |	CMOS |	CCD |	CMOS |
-| pixel pitch (µm) |	5.86 |	3.45 |	3.45 |	4.65 |	6.9 |
-| averaged images |	1 |	50 |	1 |	1000 |	1 |
-| sensor type |	rotating pol. + CMOS |	rotating pol. + CMOS |	rotating pol. + prism + 3 CMOS |	prism + 3 CCD |	rotating pol. + rotating color wheel + CMOS |
-| polarizing element |	 |	Tiffin 49CP 49mm polarizer  |	 |	Sigmakoki SPF-50C-32 |	 |
-| objective lens |	 |	Fujinon 12.5mm 2/3"  |	 |	 |	 |
-| lens aperture |	fixed |	f/8 |	f/1.4 |	 |	f/1.4 |
+| dataset |	Zeng ('Forknet')&nbsp;[3] |	Zeng ('Forknet')&nbsp;[4] |	Sargent&nbsp;[7] |	Wen 2019&nbsp;[6] |	Morimatsu&nbsp;[8, 9] |	Wen 2021a&nbsp;[12] |
+| :---: |	:---: |	:---: |	:---: |	:---: |	:---: |	:---: |
+| number of scenes |	215 |	120 |	24 |	105 |	40 |	50 |
+| definition |	640x480 |	1280 x 960 |	2448 x 2048 |	1456 x 1088 |	1024 x 768 |	720 x 540 |
+| spectral bands |	mono |	mono |	mono |	RGB |	RGB |	RGB |
+| bit depth |	 |	8 |	10 or 12 |	8 |	10 |	8 |
+| camera |	 |	Point Grey BFLY-U3-23S6M-C |	Blackfly |	JAI AP-1600T-USB |	JAI CV-M9GE 3-CCD |	FLIR BFS-U3-04S2m-cs  |
+| sensor |	 |	 Sony IMX249 |	Sony IMX250  |	3x Sony IMX273 |	Sony ICX204AL |	Sony IMX 287 |
+| sensor technology |	 |	CMOS |	CMOS |	CMOS |	CCD |	CMOS |
+| pixel pitch (µm) |	 |	5.86 |	3.45 |	3.45 |	4.65 |	6.9 |
+| averaged images |	 |	1 |	50 |	1 |	1000 |	1 |
+| sensor type |	rotating pol. |	rotating pol. + CMOS |	rotating pol. + CMOS |	rotating pol. + prism + 3 CMOS |	prism + 3 CCD |	rotating pol. + rotating color wheel + CMOS |
+| polarizing element |	Newport 10LP-VISB  |	 |	Tiffin 49CP 49mm polarizer  |	 |	Sigmakoki SPF-50C-32 |	 |
+| objective lens |	 |	 |	Fujinon 12.5mm 2/3"  |	 |	 |	 |
+| lens aperture |	 |	fixed |	f/8 |	f/1.4 |	 |	f/1.4 |
 
 
-**Table 2: Characteristics of non-mosaiced datasets (updated Aug. 14, 2023).**
+**Table 2: Characteristics of non-mosaiced datasets (updated Sept. 06, 2023).**
 
 ## References
 
