@@ -34,7 +34,7 @@ You can find here the updated version of the tables describing the polarization 
 
 The following table describes non mosaiced datasets, likely to be used for testing demosaicing algorithms.
 
-| dataset |	Zeng ('Forknet')&nbsp;[3] |	Zeng ('Forknet')&nbsp;[4] |	Sargent&nbsp;[7] |	Wen 2019&nbsp;[6] |	Morimatsu&nbsp;[8, 9] |	Wen 2021a&nbsp;[12] |
+| dataset |	Zhang 2018&nbsp;[3] |	Zeng ('Forknet')&nbsp;[4] |	Sargent&nbsp;[7] |	Wen 2019&nbsp;[6] |	Morimatsu&nbsp;[8,&nbsp;9] |	Wen 2021a&nbsp;[12] |
 | :---: |	:---: |	:---: |	:---: |	:---: |	:---: |	:---: |
 | number of scenes |	215 |	120 |	24 |	105 |	40 |	50 |
 | definition |	640x480 |	1280 x 960 |	2448 x 2048 |	1456 x 1088 |	1024 x 768 |	720 x 540 |
@@ -49,6 +49,7 @@ The following table describes non mosaiced datasets, likely to be used for testi
 | polarizing element |	Newport 10LP-VISB  |	 |	Tiffin 49CP 49mm polarizer  |	 |	Sigmakoki SPF-50C-32 |	 |
 | objective lens |	 |	 |	Fujinon 12.5mm 2/3"  |	 |	 |	 |
 | lens aperture |	 |	fixed |	f/8 |	f/1.4 |	 |	f/1.4 |
+
 
 
 **Table 2: Characteristics of non-mosaiced datasets (updated Sept. 06, 2023).**
