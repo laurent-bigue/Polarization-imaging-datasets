@@ -32,6 +32,7 @@ You can find here the updated version of the tables describing the polarization 
 
 **Table 1: Basic characteristics of imaging polarization datasets (updated Sept. 06, 2023).**
 
+
 The following table describes non mosaiced datasets, likely to be used for testing demosaicing algorithms.
 
 | dataset |	Zhang 2018&nbsp;[3] |	Zeng ('Forknet')&nbsp;[4] |	Sargent&nbsp;[7] |	Wen 2019&nbsp;[6] |	Morimatsu&nbsp;[8,&nbsp;9] |	Wen 2021a&nbsp;[12] |
