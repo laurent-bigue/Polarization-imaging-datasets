@@ -41,7 +41,7 @@ The following table describes non mosaiced datasets, likely to be used for testi
 | spectral bands |	mono |	mono |	mono |	RGB |	RGB |	RGB |
 | bit depth |	 |	8 |	10 or 12 |	8 |	10 |	8 |
 | camera |	 |	Point Grey BFLY-U3-23S6M-C |	Blackfly |	JAI AP-1600T-USB |	JAI CV-M9GE 3-CCD |	FLIR BFS-U3-04S2m-cs  |
-| sensor |	 |	 Sony IMX249 |	Sony IMX250  |	3x Sony IMX273 |	Sony ICX204AL |	Sony IMX 287 |
+| sensor |	 |	 Sony IMX249 |	Sony IMX250  |	3x Sony IMX273 |	Sony ICX204AL |	Sony IMX287 |
 | sensor technology |	 |	CMOS |	CMOS |	CMOS |	CCD |	CMOS |
 | pixel pitch (µm) |	 |	5.86 |	3.45 |	3.45 |	4.65 |	6.9 |
 | averaged images |	 |	1 |	50 |	1 |	1000 |	1 |
