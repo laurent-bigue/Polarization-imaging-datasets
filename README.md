@@ -60,42 +60,46 @@ The following table describes non mosaiced datasets, likely to be used for testi
 
 [2] Lapray, P.-J., Gendre, L., Bigu ́e, L., and Foulonneau, A., “Database of polarimetric and multispectral images in the visible and nir regions,” in [Unconventional Optical Imaging], Proc. SPIE 10677, 1067738 (2018).
 
-[3] Zeng, X., Luo, Y., Zhao, X., and Ye, W., “An end-to-end fully-convolutional neural network for division of focal plane sensors to reconstruct s0, dolp, and aop,” Opt. Express 27, 8566–8577 (2019).
+[3] Zhang, J., Shao, J., Luo, H., Zhang, X., Hui, B., Chang, Z. and Liang, R., "Learning a convolutional demosaicing network for microgrid polarimeter imagery", Opt. Lett. 43 (18), 4534-4537 (2018).
 
-[4] Qiu, S., Fu, Q., Wang, C., and Heidrich, W., “Polarization demosaicking for monochrome and color po- larization focal plane arrays,” in [Conference on Vision, Modeling, and Visualization], The Eurographics Association (2019).
+[4] Zeng, X., Luo, Y., Zhao, X., and Ye, W., “An end-to-end fully-convolutional neural network for division of focal plane sensors to reconstruct S0, DoLP, and AoP,” Opt. Express 27, 8566–8577 (2019).
 
-[5] Wen, S., Zheng, Y., Lu, F., and Zhao, Q., “Convolutional demosaicing network for joint chromatic and polarimetric imagery,” Opt. Lett. 44, 5646–5649 (2019).
+[5] Qiu, S., Fu, Q., Wang, C., and Heidrich, W., “Polarization demosaicking for monochrome and color po- larization focal plane arrays,” in [Conference on Vision, Modeling, and Visualization], The Eurographics Association (2019).
 
-[6] Sargent, G. C., Ratliff, B. M., and Asari, V. K., “Conditional generative adversarial network demosaicing strategy for division of focal plane polarimeters,” Opt. Express 28, 38419–38443 (2020).
+[6] Wen, S., Zheng, Y., Lu, F., and Zhao, Q., “Convolutional demosaicing network for joint chromatic and polarimetric imagery,” Opt. Lett. 44, 5646–5649 (2019).
 
-[7] Morimatsu, M., Monno, Y., Tanaka, M., and Okutomi, M., “Monochrome and color polarization demo- saicking using edge-aware residual interpolation,” in [2020 IEEE International Conf. on Image Processing (ICIP)], 2571–2575, IEEE (2020).
+[7] Sargent, G. C., Ratliff, B. M., and Asari, V. K., “Conditional generative adversarial network demosaicing strategy for division of focal plane polarimeters,” Opt. Express 28, 38419–38443 (2020).
 
-[8] Morimatsu, M., Monno, Y., Tanaka, M., and Okutomi, M., “Monochrome and color polarization demo- saicking based on intensity-guided residual 
+[8] Morimatsu, M., Monno, Y., Tanaka, M., and Okutomi, M., “Monochrome and color polarization demo- saicking using edge-aware residual interpolation,” in [2020 IEEE International Conf. on Image Processing (ICIP)], 2571–2575, IEEE (2020).
+
+[9] Morimatsu, M., Monno, Y., Tanaka, M., and Okutomi, M., “Monochrome and color polarization demo- saicking based on intensity-guided residual 
 interpolation,” IEEE Sens. J. 21, 26985–26996 (2021).
 
-[9] Ba, Y., Gilbert, A., Wang, F., Yang, J., Chen, R., Wang, Y., Yan, L., Shi, B., and Kadambi, A., “Deep shape from polarization,” in [ECCV 2020], LNCS 12369, 554–571, Springer International Publishing, Cham (2020).
+[10] Li, X., Li, H., Lin, Y., Guo, J., Yang, J., Yue, H., Li, K., Li, C., Cheng, Z., Hu, H. and Liu, T., "Learning-based denoising for polarimetric images", Opt. Express 28 (11), 16309-16321 (2020).
 
-[10] Wen, S., Zheng, Y., and Lu, F., “A sparse representation based joint demosaicing method for single-chip polarized color sensor,” IEEE Trans. Image Proc. 30, 4171–4182 (2021).
+[11] Ba, Y., Gilbert, A., Wang, F., Yang, J., Chen, R., Wang, Y., Yan, L., Shi, B., and Kadambi, A., “Deep shape from polarization,” in [ECCV 2020], LNCS 12369, 554–571, Springer International Publishing, Cham (2020).
 
-[11] Wen, S., Zheng, Y., and Lu, F., “Polarization guided specular reflection separation,” IEEE Trans. Image Proc. 30, 7280–7291 (2021).
+[12] Wen, S., Zheng, Y., and Lu, F., “A sparse representation based joint demosaicing method for single-chip polarized color sensor,” IEEE Trans. Image Proc. 30, 4171–4182 (2021).
 
-[12] Blin, R., Ainouz, S., Canu, S., and Meriaudeau, F., “Multimodal polarimetric and color fusion for road scene analysis in adverse weather conditions,” in [2021 IEEE International Conf. on Image Processing (ICIP)], 3338–3342, IEEE (2021).
+[13] Wen, S., Zheng, Y., and Lu, F., “Polarization guided specular reflection separation,” IEEE Trans. Image Proc. 30, 7280–7291 (2021).
 
-[13] Sun, Y., Zhang, J., and Liang, R., “Color polarization demosaicking by a convolutional neural network,” Opt. Lett. 46, 4338–4341 (2021).
+[14] Blin, R., Ainouz, S., Canu, S., and Meriaudeau, F., “Multimodal polarimetric and color fusion for road scene analysis in adverse weather conditions,” in [2021 IEEE International Conf. on Image Processing (ICIP)], 3338–3342, IEEE (2021).
 
-[14] Zhang, J., Shao, J., Chen, J., Yang, D., and Liang, B., “Polarization image fusion with self-learned fusion strategy,” Pattern Recognition 118, 108045 (2021).
+[15] Sun, Y., Zhang, J., and Liang, R., “Color polarization demosaicking by a convolutional neural network,” Opt. Lett. 46, 4338–4341 (2021).
 
-[15] Sattar, S., Lapray, P.-J., Aksas, L., Foulonneau, A., and Bigu ́e, L., “Snapshot spectropolarimetric imaging using a pair of filter array cameras,” Opt. Eng. 61, 043104 (2022).
+[16] Zhang, J., Shao, J., Chen, J., Yang, D., and Liang, B., “Polarization image fusion with self-learned fusion strategy,” Pattern Recognition 118, 108045 (2021).
 
-[16] Lei, C., Qi, C., Xie, J., Fan, N., Koltun, V., and Chen, Q., “Shape from polarization for complex scenes in the wild,” in [2022 IEEE/CVF Conf. on Computer Vision and Pattern Recognition (CVPR)], 12622–12631, IEEE (2022).
+[17] Sattar, S., Lapray, P.-J., Aksas, L., Foulonneau, A., and Bigu ́e, L., “Snapshot spectropolarimetric imaging using a pair of filter array cameras,” Opt. Eng. 61, 043104 (2022).
 
-[17] Ono, T., Kondo, Y., Sun, L., Kurita, T., and Moriuchi, Y., “Degree-of-linear-polarization-based color constancy,” in [2022 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)], 19708– 19717, IEEE (2022).
+[18] Lei, C., Qi, C., Xie, J., Fan, N., Koltun, V., and Chen, Q., “Shape from polarization for complex scenes in the wild,” in [2022 IEEE/CVF Conf. on Computer Vision and Pattern Recognition (CVPR)], 12622–12631, IEEE (2022).
 
-[18] Kurita, T., Kondo, Y., Sun, L., and Moriuchi, Y., “Simultaneous acquisition of high quality rgb image and polarization information using a sparse polarization sensor,” in [2023 IEEE/CVF Winter Conf. on Applications of Computer Vision (WACV)], 178–188, IEEE (2023).
+[19] Ono, T., Kondo, Y., Sun, L., Kurita, T., and Moriuchi, Y., “Degree-of-linear-polarization-based color constancy,” in [2022 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)], 19708– 19717, IEEE (2022).
 
-[19] Liu, J., Duan, J., Hao, Y., Chen, G., Zhang, H., and Zheng, Y., “Polarization image demosaicing and rgb image enhancement for a color polarization sparse focal plane array,” Opt. Express 31, 23475–23490 (2023).
+[20] Kurita, T., Kondo, Y., Sun, L., and Moriuchi, Y., “Simultaneous acquisition of high quality rgb image and polarization information using a sparse polarization sensor,” in [2023 IEEE/CVF Winter Conf. on Applications of Computer Vision (WACV)], 178–188, IEEE (2023).
 
-[20] Yu, D., Li, Q., Zhang, Z., Huo, G., Xu, C., and Zhou, Y., “Color polarization image super-resolution reconstruction via a cross-branch supervised learning strategy,” Optics and Lasers in Engineering 165,
+[21] Liu, J., Duan, J., Hao, Y., Chen, G., Zhang, H., and Zheng, Y., “Polarization image demosaicing and rgb image enhancement for a color polarization sparse focal plane array,” Opt. Express 31, 23475–23490 (2023).
+
+[22] Yu, D., Li, Q., Zhang, Z., Huo, G., Xu, C., and Zhou, Y., “Color polarization image super-resolution reconstruction via a cross-branch supervised learning strategy,” Optics and Lasers in Engineering 165,
 107469 (2023).
 
 ## Citation
