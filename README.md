@@ -21,13 +21,13 @@ You can find here the updated version of the tables describing the polarization 
 | Wen 2021b [13] |	GitHub |	8 |	1384 x 1032 |	8 |	yes |	RGB |
 | Blin [14] |	zenodo.org |	2060 |	500 x 500 |	8 |	yes |	RGB |
 | Sun [15] |	google drive |	132 |	2048 x 1848 |	8 |	yes |	RGB |
-| Zhang 2021 [16] |	 |	200 |	640 x 480 |	? |	NO |	mono |
+| Zhang 2021 [16] |	 |	200 |	640 x 480 |	 |	NO |	mono |
 | Sattar [17] |	GitHub |	28 |	1224 x 1024 |	8 |	yes |	RGB |
 | Lei [18] |	GitHub |	522 |	1224 x 1024 |	11 |	yes |	RGB |
 | Ono [19] |	upon request |	82 |	2448 x 2040 |	11 |	yes |	RGB |
 | Kurita [20] |	upon request |	729+82+238 |	2448 x 2048 |	12 |	yes |	RGB |
 | Liu [21] |	upon request |	200+100 |	2448 x 2048 |	 |	yes |	RGB |
-| Yu [22] |	google drive |	120 |	1224 x 1024 |	? |	yes |	RGB |![image]
+| Yu [22] |	google drive |	120 |	1224 x 1024 |	 |	yes |	RGB |![image]
 
 
 **Table 1: Basic characteristics of imaging polarization datasets (updated Sept. 06, 2023).**
