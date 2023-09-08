@@ -87,23 +87,25 @@ interpolation,” IEEE Sens. J. 21, 26985–26996 (2021).
 
 [13] Wen, S., Zheng, Y., and Lu, F., “Polarization guided specular reflection separation,” IEEE Trans. Image Proc. 30, 7280–7291 (2021).
 
-[14] Blin, R., Ainouz, S., Canu, S., and Meriaudeau, F., “Multimodal polarimetric and color fusion for road scene analysis in adverse weather conditions,” in [2021 IEEE International Conf. on Image Processing (ICIP)], 3338–3342, IEEE (2021).
+[14]	Ratliff, B.M. and Sargent, G.C., "Alternative linear microgrid polarimeters: design, analysis, and demosaicing considerations", Appl. Opt.Appl. Opt. 60 (20), 5805-5818 (2021).
 
-[15] Sun, Y., Zhang, J., and Liang, R., “Color polarization demosaicking by a convolutional neural network,” Opt. Lett. 46, 4338–4341 (2021).
+[15] Blin, R., Ainouz, S., Canu, S., and Meriaudeau, F., “Multimodal polarimetric and color fusion for road scene analysis in adverse weather conditions,” in [2021 IEEE International Conf. on Image Processing (ICIP)], 3338–3342, IEEE (2021).
 
-[16] Zhang, J., Shao, J., Chen, J., Yang, D., and Liang, B., “Polarization image fusion with self-learned fusion strategy,” Pattern Recognition 118, 108045 (2021).
+[16] Sun, Y., Zhang, J., and Liang, R., “Color polarization demosaicking by a convolutional neural network,” Opt. Lett. 46, 4338–4341 (2021).
 
-[17] Sattar, S., Lapray, P.-J., Aksas, L., Foulonneau, A., and Bigu ́e, L., “Snapshot spectropolarimetric imaging using a pair of filter array cameras,” Opt. Eng. 61, 043104 (2022).
+[17] Zhang, J., Shao, J., Chen, J., Yang, D., and Liang, B., “Polarization image fusion with self-learned fusion strategy,” Pattern Recognition 118, 108045 (2021).
 
-[18] Lei, C., Qi, C., Xie, J., Fan, N., Koltun, V., and Chen, Q., “Shape from polarization for complex scenes in the wild,” in [2022 IEEE/CVF Conf. on Computer Vision and Pattern Recognition (CVPR)], 12622–12631, IEEE (2022).
+[18] Sattar, S., Lapray, P.-J., Aksas, L., Foulonneau, A., and Bigu ́e, L., “Snapshot spectropolarimetric imaging using a pair of filter array cameras,” Opt. Eng. 61, 043104 (2022).
 
-[19] Ono, T., Kondo, Y., Sun, L., Kurita, T., and Moriuchi, Y., “Degree-of-linear-polarization-based color constancy,” in [2022 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)], 19708– 19717, IEEE (2022).
+[19] Lei, C., Qi, C., Xie, J., Fan, N., Koltun, V., and Chen, Q., “Shape from polarization for complex scenes in the wild,” in [2022 IEEE/CVF Conf. on Computer Vision and Pattern Recognition (CVPR)], 12622–12631, IEEE (2022).
 
-[20] Kurita, T., Kondo, Y., Sun, L., and Moriuchi, Y., “Simultaneous acquisition of high quality rgb image and polarization information using a sparse polarization sensor,” in [2023 IEEE/CVF Winter Conf. on Applications of Computer Vision (WACV)], 178–188, IEEE (2023).
+[20] Ono, T., Kondo, Y., Sun, L., Kurita, T., and Moriuchi, Y., “Degree-of-linear-polarization-based color constancy,” in [2022 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)], 19708– 19717, IEEE (2022).
 
-[21] Liu, J., Duan, J., Hao, Y., Chen, G., Zhang, H., and Zheng, Y., “Polarization image demosaicing and rgb image enhancement for a color polarization sparse focal plane array,” Opt. Express 31, 23475–23490 (2023).
+[21] Kurita, T., Kondo, Y., Sun, L., and Moriuchi, Y., “Simultaneous acquisition of high quality rgb image and polarization information using a sparse polarization sensor,” in [2023 IEEE/CVF Winter Conf. on Applications of Computer Vision (WACV)], 178–188, IEEE (2023).
 
-[22] Yu, D., Li, Q., Zhang, Z., Huo, G., Xu, C., and Zhou, Y., “Color polarization image super-resolution reconstruction via a cross-branch supervised learning strategy,” Optics and Lasers in Engineering 165,
+[22] Liu, J., Duan, J., Hao, Y., Chen, G., Zhang, H., and Zheng, Y., “Polarization image demosaicing and rgb image enhancement for a color polarization sparse focal plane array,” Opt. Express 31, 23475–23490 (2023).
+
+[23] Yu, D., Li, Q., Zhang, Z., Huo, G., Xu, C., and Zhou, Y., “Color polarization image super-resolution reconstruction via a cross-branch supervised learning strategy,” Optics and Lasers in Engineering 165,
 107469 (2023).
 
 ## Citation
