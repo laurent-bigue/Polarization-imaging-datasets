@@ -87,7 +87,7 @@ interpolation,” IEEE Sens. J. 21, 26985–26996 (2021).
 
 [13] Wen, S., Zheng, Y., and Lu, F., “Polarization guided specular reflection separation,” IEEE Trans. Image Proc. 30, 7280–7291 (2021).
 
-[14]	Ratliff, B.M. and Sargent, G.C., "Alternative linear microgrid polarimeters: design, analysis, and demosaicing considerations", Appl. Opt.Appl. Opt. 60 (20), 5805-5818 (2021).
+[14]	Ratliff, B.M. and Sargent, G.C., "Alternative linear microgrid polarimeters: design, analysis, and demosaicing considerations", Appl. Opt. 60 (20), 5805-5818 (2021).
 
 [15] Blin, R., Ainouz, S., Canu, S., and Meriaudeau, F., “Multimodal polarimetric and color fusion for road scene analysis in adverse weather conditions,” in [2021 IEEE International Conf. on Image Processing (ICIP)], 3338–3342, IEEE (2021).
 
