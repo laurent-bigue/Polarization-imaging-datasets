@@ -13,47 +13,50 @@ You can find here the updated version of the tables describing the polarization 
 | Zeng [4] |	upon request |	120 |	1280 x 960 |	8 |	NO |	mono |
 | Qiu [5] |	univ. repository |	40 |	1024 x 1024 |	8 |	yes |	RGB |
 | Wen 2019 [6] |	GitHub |	105 |	1456 x 1088 |	8 |	NO |	RGB |
-| Sargent [7] |	upon request |	24 |	2448 x 2048 |	10 or 12 |	NO |	mono |
+| Sargent [7] |	 |	24 |	2448 x 2048 |	10 or 12 |	NO |	mono |
 | Morimatsu [8, 9] |	univ. repository |	40 |	1024 x 768 |	10 |	NO |	RGB |
 | Li [10] |	 |	150 |	1224 x 1024 |	 |	yes |	mono |
 | Ba [11] |	google drive |	326 |	1024 x 1024 |	11 |	yes |	RGB |
 | Wen 2021a [12] |	GitHub |	40+10 |	720 x 540 |	8 |	NO |	RGB |
 | Wen 2021b [13] |	GitHub |	8 |	1384 x 1032 |	8 |	yes |	RGB |
-| Blin [14] |	zenodo.org |	2060 |	500 x 500 |	8 |	yes |	RGB |
-| Sun [15] |	google drive |	132 |	2048 x 1848 |	8 |	yes |	RGB |
-| Zhang 2021 [16] |	 |	200 |	640 x 480 |	 |	NO |	mono |
-| Sattar [17] |	GitHub |	28 |	1224 x 1024 |	8 |	yes |	RGB |
-| Lei [18] |	GitHub |	522 |	1224 x 1024 |	11 |	yes |	RGB |
-| Ono [19] |	upon request |	82 |	2448 x 2040 |	11 |	yes |	RGB |
-| Kurita [20] |	upon request |	729+82+238 |	2448 x 2048 |	12 |	yes |	RGB |
-| Liu [21] |	upon request |	200+100 |	2448 x 2048 |	 |	yes |	RGB |
-| Yu [22] |	google drive |	120 |	1224 x 1024 |	 |	yes |	RGB |
+| Ratliff [14] |	upon request |	20 |	2448 x 2048 |	 |	NO |	mono |
+| Blin [15] |	zenodo.org |	2060 |	500 x 500 |	8 |	yes |	RGB |
+| Sun [16] |	google drive |	132 |	2048 x 1848 |	8 |	yes |	RGB |
+| Zhang 2021 [17] |	 |	200 |	640 x 480 |	 |	NO |	mono |
+| Sattar [18] |	GitHub |	28 |	1224 x 1024 |	8 |	yes |	RGB |
+| Lei [19] |	GitHub |	522 |	1224 x 1024 |	11 |	yes |	RGB |
+| Ono [20] |	upon request |	82 |	2448 x 2040 |	11 |	yes |	RGB |
+| Kurita [21] |	upon request |	729+82+238 |	2448 x 2048 |	12 |	yes |	RGB |
+| Liu [22] |	upon request |	200+100 |	2448 x 2048 |	 |	yes |	RGB |
+| Yu [23] |	google drive |	120 |	1224 x 1024 |	 |	yes |	RGB |
 
 
-**Table 1: Basic characteristics of imaging polarization datasets (updated Sept. 06, 2023).**
+**Table 1: Basic characteristics of imaging polarization datasets (updated Sept. 08, 2023).**
 
 
 The following table describes non mosaiced datasets, likely to be used for testing demosaicing algorithms.
 
-| dataset |	Zhang 2018&nbsp;[3] |	Zeng ('Forknet')&nbsp;[4] |	Sargent&nbsp;[7] |	Wen 2019&nbsp;[6] |	Morimatsu&nbsp;[8,&nbsp;9] |	Wen 2021a&nbsp;[12] |
-| :---: |	:---: |	:---: |	:---: |	:---: |	:---: |	:---: |
-| number of scenes |	215 |	120 |	24 |	105 |	40 |	50 |
-| definition |	640x480 |	1280 x 960 |	2448 x 2048 |	1456 x 1088 |	1024 x 768 |	720 x 540 |
-| spectral bands |	mono |	mono |	mono |	RGB |	RGB |	RGB |
-| bit depth |	 |	8 |	10 or 12 |	8 |	10 |	8 |
-| camera |	 |	Point Grey BFLY-U3-23S6M-C |	Blackfly |	JAI AP-1600T-USB |	JAI CV-M9GE 3-CCD |	FLIR BFS-U3-04S2m-cs  |
-| sensor |	 |	 Sony IMX249 |	Sony IMX250  |	3x Sony IMX273 |	Sony ICX204AL |	Sony IMX287 |
-| sensor technology |	 |	CMOS |	CMOS |	CMOS |	CCD |	CMOS |
-| pixel pitch (µm) |	 |	5.86 |	3.45 |	3.45 |	4.65 |	6.9 |
-| averaged images |	 |	1 |	50 |	1 |	1000 |	1 |
-| sensor type |	rotating pol. |	rotating pol. + CMOS |	rotating pol. + CMOS |	rotating pol. + prism + 3 CMOS |	prism + 3 CCD |	rotating pol. + rotating color wheel + CMOS |
-| polarizing element |	Newport 10LP-VISB  |	 |	Tiffin 49CP 49mm polarizer  |	 |	Sigmakoki SPF-50C-32 |	 |
-| objective lens |	 |	 |	Fujinon 12.5mm 2/3"  |	 |	 |	 |
-| lens aperture |	 |	fixed |	f/8 |	f/1.4 |	 |	f/1.4 |
+| dataset |	Zhang 2018&nbsp;[3] |	Zeng ('Forknet')&nbsp;[4] |	Sargent&nbsp;[7] |	Wen 2019&nbsp;[6] |	Morimatsu&nbsp;[8,&nbsp;9] |	Wen 2021a&nbsp;[12] |	Ratliff&nbsp;[14] |	
+| :---: |	:---: |	:---: |	:---: |	:---: |	:---: |	:---: |	:---: |	
+| number of scenes |	215 |	120 |	24 |	105 |	40 |	50 |	20 |	
+| definition |	640x480 |	1280 x 960 |	2448 x 2048 |	1456 x 1088 |	1024 x 768 |	720 x 540 |	2448x2048 |	
+| spectral bands |	mono |	mono |	mono |	RGB |	RGB |	RGB |	mono |	
+| bit depth |	 |	8 |	10 or 12 |	8 |	10 |	8 |	 |	
+| camera |	 |	Point Grey BFLY-U3-23S6M-C |	Blackfly |	JAI AP-1600T-USB |	JAI CV-M9GE 3-CCD |	FLIR BFS-U3-04S2m-cs  |	Blackfly |	
+| sensor |	 |	 Sony IMX249 |	Sony IMX250  |	3x Sony IMX273 |	Sony ICX204AL |	Sony IMX287 |	Sony IMX250  |	
+| sensor technology |	 |	CMOS |	CMOS |	CMOS |	CCD |	CMOS |	CMOS |	
+| pixel pitch (µm) |	 |	5.86 |	3.45 |	3.45 |	4.65 |	6.9 |	3.45 |	
+| averaged images |	 |	1 |	50 |	1 |	1000 |	1 |	 |	
+| sensor type |	rotating pol. + CMOS |	rotating pol. + CMOS |	rotating pol. + CMOS |	rotating pol. + prism + 3 CMOS |	prism + 3 CCD |	rotating pol. + rotating color wheel + CMOS |	rotating pol. + CMOS |	
+| polarizing element |	Newport 10LP-VISB  |	 |	Tiffin 49CP 49mm polarizer  |	 |	Sigmakoki SPF-50C-32 |	 |	Tiffin 49CP 49mm polarizer  |	
+| objective lens |	 |	 |	Fujinon 12.5mm 2/3"  |	 |	 |	 |	Fujinon 12.5mm 2/3"  |	
+| lens aperture |	 |	fixed |	f/8 |	f/1.4 |	 |	f/1.4 |	f/8 |	
+| polarization directions |	4: 0, 45, 90, 135° |	4: 0, 45, 90, 135° |	4: 0, 45, 90, 135° |	4: 0, 45, 90, 135° |	4: 0, 45, 90, 135° |	4: 0, 45, 90, 135° |	16: 0, 15, 22.5, 30, 45, 60, 67.5, 75, 90, 105, 112.5, 120, 135, 150, 157.5, 165° |	
 
 
 
-**Table 2: Characteristics of non-mosaiced datasets (updated Sept. 06, 2023).**
+
+**Table 2: Characteristics of non-mosaiced datasets (updated Sept. 08, 2023).**
 
 ## References
 
