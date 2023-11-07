@@ -16,7 +16,7 @@ You can find here the updated version of the tables describing the polarization 
 | Sargent [7] |	 |	24 |	2448 x 2048 |	10 or 12 |	NO |	mono |
 | Morimatsu [8, 9] |	univ. repository |	40 |	1024 x 768 |	10 |	NO |	RGB |
 | Li [10] |	 |	150 |	1224 x 1024 |	 |	yes |	mono |
-| Ba [11] |	google drive |	326 |	1024 x 1024 |	11 |	yes |	RGB |
+| Ba [11] |	google drive |	326 |	1024 x 1024 |	12 |	yes |	RGB |
 | Wen 2021a [12] |	GitHub |	40+10 |	720 x 540 |	8 |	NO |	RGB |
 | Wen 2021b [13] |	GitHub |	8 |	1384 x 1032 |	8 |	yes |	RGB |
 | Ratliff [14] |	upon request |	20 |	2448 x 2048 |	 |	NO |	mono |
@@ -24,14 +24,14 @@ You can find here the updated version of the tables describing the polarization 
 | Sun [16] |	google drive |	132 |	2048 x 1848 |	8 |	yes |	RGB |
 | Zhang 2021 [17] |	 |	200 |	640 x 480 |	 |	NO |	mono |
 | Sattar [18] |	GitHub |	28 |	1224 x 1024 |	8 |	yes |	RGB |
-| Lei [19] |	GitHub |	522 |	1224 x 1024 |	11 |	yes |	RGB |
-| Ono [20] |	upon request |	82 |	2448 x 2040 |	11 |	yes |	RGB |
+| Lei [19] |	GitHub |	522 |	1224 x 1024 |	12 |	yes |	RGB |
+| Ono [20] |	upon request |	82 |	2448 x 2040 |	12 |	yes |	RGB |
 | Kurita [21] |	upon request |	729+82+238 |	2448 x 2048 |	12 |	yes |	RGB |
 | Liu [22] |	upon request |	200+100 |	2448 x 2048 |	 |	yes |	RGB |
 | Yu [23] |	google drive |	120 |	1224 x 1024 |	 |	yes |	RGB |
 
 
-**Table 1: Basic characteristics of imaging polarization datasets (updated Sept. 08, 2023).**
+**Table 1: Basic characteristics of imaging polarization datasets (updated Nov. 07, 2023).**
 
 
 The following table describes non mosaiced datasets, likely to be used for testing demosaicing algorithms.
