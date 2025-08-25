@@ -8,30 +8,30 @@ You can find here the updated version of the tables describing the polarization 
 | dataset |	availability |	number of scenes |	definition |	bit-depth |	mosaiced sensor |	mono/color |
 | :---: |	:---: |	:---: |	:---: |	:---: |	:---: |	:---: |
 | Abubakar [1] |	 |	6 |	1280 x 960 |	8 |	NO |	mono |
-| Lapray [2] |	GitHub |	10 |	1024 x 768 |	12 |	yes |	RGB/IR |
+| Lapray [2] |	GitHub |	10 |	1024 x 768 |	12 |	yes (col.) |	RGB/IR |
 | Zhang 2018 [3] |	 |	215 |	640x480 |	 |	NO |	mono |
 | Zeng [4] |	upon request |	120 |	1280 x 960 |	8 |	NO |	mono |
-| Qiu [5] |	univ. repository |	40 |	1024 x 1024 |	8 |	yes |	RGB |
+| Qiu [5] |	univ. repository |	40 |	1024 x 1024 |	8 |	yes (col.) |	RGB |
 | Wen 2019 [6] |	GitHub |	105 |	1456 x 1088 |	8 |	NO |	RGB |
 | Sargent [7] |	 |	24 |	2448 x 2048 |	10 or 12 |	NO |	mono |
 | Morimatsu [8, 9] |	univ. repository |	40 |	1024 x 768 |	10 |	NO |	RGB |
-| Li [10] |	 |	150 |	1224 x 1024 |	 |	yes |	mono |
-| Ba [11] |	google drive |	326 |	1024 x 1024 |	12 |	yes |	RGB |
+| Li [10] |	 |	150 |	1224 x 1024 |	 |	yes (polar.) |	mono |
+| Ba [11] |	google drive |	326 |	1224 x 1024 |	12 |	yes (polar.) |	RGB |
 | Wen 2021a [12] |	GitHub |	40+10 |	720 x 540 |	8 |	NO |	RGB |
-| Wen 2021b [13] |	GitHub |	8 |	1384 x 1032 |	8 |	yes |	RGB |
+| Wen 2021b [13] |	GitHub |	8 |	1384 x 1032 |	8 |	yes (col., polar.) |	RGB |
 | Ratliff [14] |	upon request |	20 |	2448 x 2048 |	 |	NO |	mono |
-| Blin [15] |	zenodo.org |	2060 |	500 x 500 |	8 |	yes |	RGB |
-| Sun [16] |	google drive |	132 |	2048 x 1848 |	8 |	yes |	RGB |
+| Blin [15] |	zenodo.org |	2060 |	500 x 500 |	8 |	yes (polar.) |	mono |
+| Sun [16] |	google drive |	132 |	2048 x 1848 |	8 |	yes (col., polar.) |	RGB |
 | Zhang 2021 [17] |	 |	200 |	640 x 480 |	 |	NO |	mono |
-| Sattar [18] |	GitHub |	28 |	1224 x 1024 |	8 |	yes |	RGB |
-| Lei [19] |	GitHub |	522 |	1224 x 1024 |	12 |	yes |	RGB |
-| Ono [20] |	upon request |	82 |	2448 x 2040 |	12 |	yes |	RGB |
+| Sattar [18] |	GitHub |	28 |	1224 x 1024 |	8 |	yes (col., polar.) |	RGB |
+| Lei [19] |	GitHub |	522 |	1224 x 1024 |	12 |	yes (polar.) |	RGB |
+| Ono [20] |	upon request |	82 |	2448 x 2040 |	12 |	yes (col., polar.) |	RGB |
 | Kurita [21] |	upon request |	729+82+238 |	2448 x 2048 |	12 |	yes |	RGB |
-| Liu [22] |	upon request |	200+100 |	2448 x 2048 |	 |	yes |	RGB |
-| Yu [23] |	google drive |	120 |	1224 x 1024 |	 |	yes |	RGB |
+| Liu [22] |	upon request |	200+100 |	2448 x 2048 |	 |	yes (col., polar.) |	RGB |
+| Yu [23] |	google drive |	120 |	1224 x 1024 |	 |	yes (col. polar.)|	RGB |
 
 
-**Table 1: Basic characteristics of imaging polarization datasets (updated Nov. 07, 2023).**
+**Table 1: Basic characteristics of imaging polarization datasets (updated Aug. 25, 2025).**
 
 
 The following table describes non mosaiced datasets, likely to be used for testing demosaicing algorithms.
@@ -123,3 +123,4 @@ If you find this work helpful in your research, please cite:
    type = {Conference Proceedings}
 }
 ```
+
