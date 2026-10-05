@@ -5,16 +5,16 @@ The communication "Production of high-resolution reference polarization images f
 ## Tables
 You can find here the updated version of the tables describing the polarization databases
 
-| dataset |	availability |	number of scenes |	definition |	bit-depth |	mosaiced sensor |	mono/color |
-| :---: |	:---: |	:---: |	:---: |	:---: |	:---: |	:---: |
+| dataset |	availability |	number of scenes |	definition |	bit-depth |	mosaiced sensor |	mono/color | misc. |
+| :---: |	:---: |	:---: |	:---: |	:---: |	:---: |	:---: |	:---: |
 | Abubakar [1] |	 |	6 |	1280 x 960 |	8 |	NO |	mono |
 | Lapray [2] |	GitHub |	10 |	1024 x 768 |	12 |	yes (col.) |	RGB/IR |
 | Zhang 2018 [3] |	 |	215 |	640x480 |	 |	NO |	mono |
 | Zeng [4] |	upon request |	120 |	1280 x 960 |	8 |	NO |	mono |
-| Qiu [5] |	univ. repository |	40 |	1024 x 1024 |	8 |	yes (col.) |	RGB |
+| Qiu [5] |	univ. repo. |	40 |	1024 x 1024 |	8 |	yes (col.) |	RGB |
 | Wen 2019 [6] |	GitHub |	105 |	1456 x 1088 |	8 |	NO |	RGB |
 | Sargent [7] |	 |	24 |	2448 x 2048 |	10 or 12 |	NO |	mono |
-| Morimatsu [8, 9] |	univ. repository |	40 |	1024 x 768 |	10 |	NO |	RGB |
+| Morimatsu [8, 9]|	univ. repo. |	40 |	1024 x 768 |	10 |	NO |	RGB |
 | Li [10] |	 |	150 |	1224 x 1024 |	 |	yes (polar.) |	mono |
 | Ba [11] |	google drive |	326 |	1224 x 1024 |	12 |	yes (polar.) |	RGB |
 | Wen 2021a [12] |	GitHub |	40+10 |	720 x 540 |	8 |	NO |	RGB |
@@ -29,34 +29,34 @@ You can find here the updated version of the tables describing the polarization 
 | Kurita [21] |	upon request |	729+82+238 |	2448 x 2048 |	12 |	yes |	RGB |
 | Liu [22] |	upon request |	200+100 |	2448 x 2048 |	 |	yes (col., polar.) |	RGB |
 | Yu [23] |	google drive |	120 |	1224 x 1024 |	 |	yes (col. polar.)|	RGB |
+| Rahman [24] |	univ. repo. |	3x40 |	1024x768 |	10 |	NO|	RGB | 40 scenes with 3 different noise levels |
 
-
-**Table 1: Basic characteristics of imaging polarization datasets (updated Aug. 25, 2025).**
+**Table 1: Basic characteristics of imaging polarization datasets (updated Oct 5., 2026).**
 
 
 The following table describes non mosaiced datasets, likely to be used for testing demosaicing algorithms.
 
-| dataset |	Zhang 2018&nbsp;[3] |	Zeng ('Forknet')&nbsp;[4] |	Sargent&nbsp;[7] |	Wen 2019&nbsp;[6] |	Morimatsu&nbsp;[8,&nbsp;9] |	Wen 2021a&nbsp;[12] |	Ratliff&nbsp;[14] |	
+| dataset |	Zhang 2018&nbsp;[3] |	Zeng ('Forknet')&nbsp;[4] |	Sargent&nbsp;[7] |	Wen 2019&nbsp;[6] |	Morimatsu&nbsp;[8,&nbsp;9] <br> Rahman&nbsp;[24] |	Wen 2021a&nbsp;[12] |	Ratliff&nbsp;[14] |	
 | :---: |	:---: |	:---: |	:---: |	:---: |	:---: |	:---: |	:---: |	
-| number of scenes |	215 |	120 |	24 |	105 |	40 |	50 |	20 |	
-| definition |	640x480 |	1280 x 960 |	2448 x 2048 |	1456 x 1088 |	1024 x 768 |	720 x 540 |	2448x2048 |	
-| spectral bands |	mono |	mono |	mono |	RGB |	RGB |	RGB |	mono |	
-| bit depth |	 |	8 |	10 or 12 |	8 |	10 |	8 |	 |	
-| camera |	 |	Point Grey BFLY-U3-23S6M-C |	Blackfly |	JAI AP-1600T-USB |	JAI CV-M9GE 3-CCD |	FLIR BFS-U3-04S2m-cs  |	Blackfly |	
-| sensor |	 |	 Sony IMX249 |	Sony IMX250  |	3x Sony IMX273 |	Sony ICX204AL |	Sony IMX287 |	Sony IMX250  |	
-| sensor technology |	 |	CMOS |	CMOS |	CMOS |	CCD |	CMOS |	CMOS |	
-| pixel pitch (µm) |	 |	5.86 |	3.45 |	3.45 |	4.65 |	6.9 |	3.45 |	
-| averaged images |	 |	1 |	50 |	1 |	1000 |	1 |	 |	
-| sensor type |	rotating pol. + CMOS |	rotating pol. + CMOS |	rotating pol. + CMOS |	rotating pol. + prism + 3 CMOS |	prism + 3 CCD |	rotating pol. + rotating color wheel + CMOS |	rotating pol. + CMOS |	
-| polarizing element |	Newport 10LP-VISB  |	 |	Tiffin 49CP 49mm polarizer  |	 |	Sigmakoki SPF-50C-32 |	 |	Tiffin 49CP 49mm polarizer  |	
-| objective lens |	 |	 |	Fujinon 12.5mm 2/3"  |	 |	 |	 |	Fujinon 12.5mm 2/3"  |	
-| lens aperture |	 |	fixed |	f/8 |	f/1.4 |	 |	f/1.4 |	f/8 |	
-| polarization directions |	4: 0, 45, 90, 135° |	4: 0, 45, 90, 135° |	4: 0, 45, 90, 135° |	4: 0, 45, 90, 135° |	4: 0, 45, 90, 135° |	4: 0, 45, 90, 135° |	16: 0, 15, 22.5, 30, 45, 60, 67.5, 75, 90, 105, 112.5, 120, 135, 150, 157.5, 165° |	
+| **number of scenes** |	215 |	120 |	24 |	105 |	40 / 3x40 |	50 |	20 |	
+| **definition** |	640x480 |	1280 x 960 |	2448 x 2048 |	1456 x 1088 |	1024 x 768 |	720 x 540 |	2448x2048 |	
+| **spectral bands** |	mono |	mono |	mono |	RGB |	RGB |	RGB |	mono |	
+| **bit depth** |	 |	8 |	10 or 12 |	8 |	10 |	8 |	 |	
+| **camera** |	 |	Point Grey BFLY-U3-23S6M-C |	Blackfly |	JAI AP-1600T-USB |	JAI CV-M9GE 3-CCD |	FLIR BFS-U3-04S2m-cs  |	Blackfly |	
+| **sensor** |	 |	 Sony IMX249 |	Sony IMX250  |	3x Sony IMX273 |	Sony ICX204AL |	Sony IMX287 |	Sony IMX250  |	
+| **sensor technology** |	 |	CMOS |	CMOS |	CMOS |	CCD |	CMOS |	CMOS |	
+| **pixel pitch (µm)** |	 |	5.86 |	3.45 |	3.45 |	4.65 |	6.9 |	3.45 |	
+| **averaged images** |	 |	1 |	50 |	1 |	1000 |	1 |	 |	
+| **sensor type** |	rotating pol. + CMOS |	rotating pol. + CMOS |	rotating pol. + CMOS |	rotating pol. + prism + 3 CMOS |	prism + 3 CCD |	rotating pol. + rotating color wheel + CMOS |	rotating pol. + CMOS |	
+| **polarizing element** |	Newport 10LP-VISB  |	 |	Tiffin 49CP 49mm polarizer  |	 |	Sigmakoki SPF-50C-32 |	 |	Tiffin 49CP 49mm polarizer  |	
+| **objective lens** |	 |	 |	Fujinon 12.5mm 2/3"  |	 |	 |	 |	Fujinon 12.5mm 2/3"  |	
+| **lens aperture** |	 |	fixed |	f/8 |	f/1.4 |	 |	f/1.4 |	f/8 |	
+| **polarization directions** |	4: <br>0, 45, 90, 135° |	4: <br> 0, 45, 90, 135° |	4: <br> 0, 45, 90, 135° |	4: <br> 0, 45, 90, 135° |	4: <br> 0, 45, 90, 135° |	4: <br> 0, 45, 90, 135° |	16: <br> 0, 15, 22.5, 30, 45, 60, 67.5, 75, 90, 105, 112.5, 120, 135, 150, 157.5, 165° |	
 
 
 
 
-**Table 2: Characteristics of non-mosaiced datasets (updated Sept. 08, 2023).**
+**Table 2: Characteristics of non-mosaiced datasets (updated Oct 5., 2026).**
 
 ## References
 
@@ -107,6 +107,9 @@ interpolation,” IEEE Sens. J. 21, 26985–26996 (2021).
 
 [23] Yu, D., Li, Q., Zhang, Z., Huo, G., Xu, C., and Zhou, Y., “Color polarization image super-resolution reconstruction via a cross-branch supervised learning strategy,” Optics and Lasers in Engineering 165,
 107469 (2023).
+
+[24]	M.D.A.B.A. Rahman, Y. Monno, M. Tanaka and M. Okutomi, "Polarization Denoising and Demosaicking: Dataset and Baseline Method", 2025 IEEE International Conference on Image Processing (ICIP), 2724-2729 (2025). [[DOI]](https://dx.doi.org/10.1109/ICIP55913.2025.11084558)
+
 
 ## Citation
 If you find this work helpful in your research, please cite:
