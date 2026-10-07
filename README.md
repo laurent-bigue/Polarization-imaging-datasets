@@ -7,7 +7,7 @@ You can find here the updated version of the tables describing the polarization 
 
 | dataset |	availability |	number of scenes |	definition |	bit-depth |	mosaiced sensor |	mono/color | misc. |
 | :---: |	:---: |	:---: |	:---: |	:---: |	:---: |	:---: |	:---: |
-| Abubakar [Github][1] |	 |	6 |	1280 x 960 |	8 |	NO |	mono |
+| Abubakar [1] |	 |	6 |	1280 x 960 |	8 |	NO |	mono |
 | Lapray [2] |	GitHub |	10 |	1024 x 768 |	12 |	yes (col.) |	RGB/IR |
 | Zhang 2018 [3] |	 |	215 |	640x480 |	 |	NO |	mono |
 | Zeng [4] |	upon request |	120 |	1280 x 960 |	8 |	NO |	mono |
