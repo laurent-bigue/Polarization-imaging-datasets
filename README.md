@@ -4,11 +4,10 @@ The communication "Production of high-resolution reference polarization images f
 
 ## Tables
 You can find here the updated version of the tables describing the polarization databases
-[GitHub][1]
 
 | dataset |	availability |	number of scenes |	definition |	bit-depth |	mosaiced sensor |	mono/color | misc. |
 | :---: |	:---: |	:---: |	:---: |	:---: |	:---: |	:---: |	:---: |
-| Abubakar [GitHub][1] |	 |	6 |	1280 x 960 |	8 |	NO |	mono |
+| Abubakar [1] |	 |	6 |	1280 x 960 |	8 |	NO |	mono |
 | Lapray [2] |	GitHub |	10 |	1024 x 768 |	12 |	yes (col.) |	RGB/IR |
 | Zhang 2018 [3] |	 |	215 |	640x480 |	 |	NO |	mono |
 | Zeng [4] |	upon request |	120 |	1280 x 960 |	8 |	NO |	mono |
@@ -61,8 +60,7 @@ The following table describes non mosaiced datasets, likely to be used for testi
 
 ## References
 
-
-[1]: Abubakar, A., Zhao, X., Li, S., Takruri, M., Bastaki, E., and Bermak, A., “A block-matching and 3-d filtering algorithm for gaussian noise in dofp polarization images,” IEEE Sens. J. 18, 7429–7435 (2018).
+[1] Abubakar, A., Zhao, X., Li, S., Takruri, M., Bastaki, E., and Bermak, A., “A block-matching and 3-d filtering algorithm for gaussian noise in dofp polarization images,” IEEE Sens. J. 18, 7429–7435 (2018).
 
 [2] Lapray, P.-J., Gendre, L., Bigu ́e, L., and Foulonneau, A., “Database of polarimetric and multispectral images in the visible and nir regions,” in [Unconventional Optical Imaging], Proc. SPIE 10677, 1067738 (2018).
 
@@ -128,4 +126,3 @@ If you find this work helpful in your research, please cite:
    type = {Conference Proceedings}
 }
 ```
-
