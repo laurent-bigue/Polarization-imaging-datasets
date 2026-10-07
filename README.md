@@ -61,6 +61,7 @@ The following table describes non mosaiced datasets, likely to be used for testi
 
 ## References
 
+
 [1]: Abubakar, A., Zhao, X., Li, S., Takruri, M., Bastaki, E., and Bermak, A., “A block-matching and 3-d filtering algorithm for gaussian noise in dofp polarization images,” IEEE Sens. J. 18, 7429–7435 (2018).
 
 [2] Lapray, P.-J., Gendre, L., Bigu ́e, L., and Foulonneau, A., “Database of polarimetric and multispectral images in the visible and nir regions,” in [Unconventional Optical Imaging], Proc. SPIE 10677, 1067738 (2018).
